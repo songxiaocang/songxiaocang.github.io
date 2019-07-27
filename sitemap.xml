@@ -2,8 +2,18 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
+        <loc>http://songxiaocang.github.io/post-sitemap.xml</loc>
+        <lastmod>2019-07-27T13:28:05.377Z</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>http://songxiaocang.github.io/page-sitemap.xml</loc>
         <lastmod>2019-07-27T11:42:33.502Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>http://songxiaocang.github.io/tag-sitemap.xml</loc>
+        <lastmod>2019-07-27T13:28:05.377Z</lastmod>
     </sitemap>
 
 </sitemapindex>
